@@ -36,12 +36,12 @@ This project is a complete retail data analytics system. It fetches raw sales da
 
 | Type | Link | توضیح |
 |------|------|-------|
-| Official Project Doc | [Doc/README.md](./Doc/README.md) | مستند رسمی پروژه |
+| Official Project Doc | [Doc](./Doc/) | مستند رسمی پروژه |
 | Developer Documentation | [Developer_Doc](./Developer_Doc/) | توضیح کدها و ساختار برنامه برای توسعه‌دهنده |
 | Jupyter Notebooks Doc | [Notebooks_Doc](./Notebooks_Doc/) | خلاصه نوت‌بوک‌ها و توضیح سلول‌ها |
 
 **فارسی:**  
-- **مستند رسمی پروژه:** [Doc/README.md](./Doc/README.md)  
+- **مستند رسمی پروژه:** [Doc](./Doc/)  
 - **مستند توسعه‌دهنده:** [Developer_Doc](./Developer_Doc/)  
 - **مستند نوت‌بوک‌ها:** [Notebooks_Doc](./Notebooks_Doc/)  
 
