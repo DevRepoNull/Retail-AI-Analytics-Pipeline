@@ -12,7 +12,7 @@
 ## 📦 نصب کتابخانه‌ها
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn scikit-learn statsmodels streamlit kaggle jupyter plotly
 ```
 
 ## 🚀 اجرای Pipeline
@@ -21,7 +21,6 @@ pip install -r requirements.txt
 python fetch_data.py
 python clean_data.py
 python analysis.py
-python forecasting.py
 python rfm_analysis.py
 python anomaly_detection.py
 ```
@@ -29,15 +28,14 @@ python anomaly_detection.py
 ## 🌐 اجرای داشبورد
 
 ```
+streamlit run forecasting.py
+
 streamlit run app.py
 ```
 
 
 ---
 
-# 💼 05_use_cases.md — کاربردها و ارزش پروژه
-
-```md
 # 💼 کاربردهای پروژه
 
 ---
